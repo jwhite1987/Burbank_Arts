@@ -36,6 +36,8 @@
 
 ![image](/screenshots/screenshot7.jpg)
 
+## Final Product
+
 ![image](/screenshots/screenshot8.jpg)
 
 ## Freelance Project by
