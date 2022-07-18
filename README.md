@@ -7,6 +7,7 @@
 - The second map is one of the USA and uses hatches to show what programs are present in which states.
 - There are also several countries around the world that are represented in the final product.
 - Using Python and Jupyter Lab as a jumping off point, the datasets were cleaned and divided by program and then used to create a prototype of the final map in Illustrator, and in the case of the Sonoma County map, a vector 'eps' file was exported directly into Illustrator so that the points on the final product map would be accurate.
+- [Link to the Sonoma County Map HTML version](https://jimmywhite1987.github.io/burbank_arts/)
 
 
 ## Languages & Technology Used
