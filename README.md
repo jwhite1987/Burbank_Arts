@@ -28,10 +28,6 @@
 
 ![image](/screenshots/screenshot3.jpg)
 
-![image](/screenshots/screenshot4.jpg)
-
-![image](/screenshots/screenshot5.jpg)
-
 ![image](/screenshots/screenshot6.jpg)
 
 ![image](/screenshots/screenshot7.jpg)
