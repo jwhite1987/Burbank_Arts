@@ -21,6 +21,10 @@
 - Contextily
 - Google Geolocator API
 
+## Final Product
+
+![image](/screenshots/screenshot8.jpg)
+
 ## Screenshots
 ![image](/screenshots/screenshot1.jpg)
 
@@ -28,13 +32,13 @@
 
 ![image](/screenshots/screenshot3.jpg)
 
+![image](/screenshots/screenshot4.jpg)
+
+![image](/screenshots/screenshot5.jpg)
+
 ![image](/screenshots/screenshot6.jpg)
 
 ![image](/screenshots/screenshot7.jpg)
-
-## Final Product
-
-![image](/screenshots/screenshot8.jpg)
 
 ## Freelance Project by
 
