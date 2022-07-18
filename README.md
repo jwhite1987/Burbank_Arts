@@ -21,21 +21,21 @@
 - Google Geolocator API
 
 ## Screenshots
-![image](/screenshots/screenshot1.png)
+![image](/screenshots/screenshot1.jpg)
 
-![image](/screenshots/screenshot2.png)
+![image](/screenshots/screenshot2.jpg)
 
-![image](/screenshots/screenshot3.png)
+![image](/screenshots/screenshot3.jpg)
 
-![image](/screenshots/screenshot4.png)
+![image](/screenshots/screenshot4.jpg)
 
-![image](/screenshots/screenshot5.png)
+![image](/screenshots/screenshot5.jpg)
 
-![image](/screenshots/screenshot6.png)
+![image](/screenshots/screenshot6.jpg)
 
-![image](/screenshots/screenshot7.png)
+![image](/screenshots/screenshot7.jpg)
 
-![image](/screenshots/screenshot8.png)
+![image](/screenshots/screenshot8.jpg)
 
 ## Freelance Project by
 
