@@ -23,7 +23,7 @@
 
 ## Second Draft of Final Product
 
-![image](/screenshots/usa_map.jpg)
+![image](/screenshots/usa_map.png)
 
 ## Screenshots
 
