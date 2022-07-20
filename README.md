@@ -21,7 +21,7 @@
 - Contextily
 - Google Geolocator API
 
-## Second Draft of Final Product
+## Final Product
 
 ![image](/screenshots/usa_map.png)
 
