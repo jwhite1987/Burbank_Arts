@@ -20,6 +20,7 @@
 - Matplotlib
 - Contextily
 - Google Geolocator API
+- Adobe Illustrator
 
 ## Final Product
 
