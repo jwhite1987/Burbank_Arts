@@ -24,7 +24,7 @@
 
 ## Final Product
 
-![image](/screenshots/usa_map.png)
+![image](/screenshots/FY22_map_final.jpg)
 
 ## Screenshots
 
